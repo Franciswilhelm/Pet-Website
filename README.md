@@ -5,8 +5,8 @@
 #### By _**Andrew Fisher & Marta Sanchez**_
 
 ## Description
-***
-_This is a website that has a short introduction to a dog. Then there is a link to her current calendar... she is a very busy dog. _
+
+This is a website that has a short introduction to a dog. Then there is a link to her current calendar... she is a very busy dog. 
 
 ## Setup/Installation Requirements
 
