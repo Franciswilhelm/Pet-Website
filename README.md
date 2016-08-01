@@ -6,7 +6,7 @@
 
 ## Description
 ***
-_{This is a website that has a short introduction to a dog. Then there is a link to her current calendar... she is a very busy dog. }_
+_This is a website that has a short introduction to a dog. Then there is a link to her current calendar... she is a very busy dog. _
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{This is a website that has a short introduction to a dog. Then there is a link
 
 ## Known Bugs
 
-_{No known issues, if you spot any please contact us.}_
+_No known issues, if you spot any please contact us._
 
 ## Support and contact details
 
-_{At emails and stuff}_
+_At emails and stuff_
 
 ## Technologies Used
 
-_{We used HTML and implemented a little bit of CSS within the HTML file}_
+_We used HTML and implemented a little bit of CSS within the HTML file_
 
 ### License
 
-*{This software is licensed under MIT license.}*
+*This software is licensed under MIT license.*
 
-Copyright (c) 2016 **_{Andrew Fisher and Marta Sanchez}_**
+Copyright (c) 2016 **_Andrew Fisher and Marta Sanchez_**
